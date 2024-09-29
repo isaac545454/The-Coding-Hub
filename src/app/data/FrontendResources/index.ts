@@ -3,7 +3,6 @@ import JSLogo from '@/app/img/JavaScript-logo.png'
 import TSLogo from '@/app/img/typescript_logo.png'
 import CleanArch from '@/app/img/clean-architecture-diagram.png'
 import DiagramaLogo from '@/app/img/diagrama.png'
-import { link } from 'fs'
 
 export const FrontendResources = [
   {
