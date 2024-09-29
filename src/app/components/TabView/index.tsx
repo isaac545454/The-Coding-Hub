@@ -13,12 +13,12 @@ export const TabView = (props: TabViewProps) => {
 
   const getStyleButton = (active: boolean) => {
     return active
-      ? 'text-primary border-b-primary border-b-2 flex-1 pb-2'
-      : 'flex-1 pb-2'
+      ? 'text-primary border-b-primary border-b-2 flex-1 pb-2 bg3 bg-transparent'
+      : 'flex-1 pb-2 bg-transparent'
   }
 
   return (
-    <div className="mt-10 flex justify-around  cursor-pointer font-bold  ">
+    <div className="mt-10 flex justify-around cursor-pointer font-bold">
       <button
         onClick={() => handleTabChange(TabOptions.CONTENTS)}
         className={getStyleButton(activeTabContents)}
