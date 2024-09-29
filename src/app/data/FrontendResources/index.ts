@@ -193,7 +193,7 @@ export const FrontendResources = [
         link: 'https://www.linkedin.com/posts/isaac-gomes-matos_javascript-typescript-activity-7151547326409388032-n1Vc?utm_source=share&utm_medium=member_desktop',
       },
       {
-        name: 'melhore sua UX com Lazy de Imagem + Streaming do NextJS ',
+        name: 'Melhore sua UX com Lazy img + Streaming Next',
         link: 'https://www.linkedin.com/posts/isaac-gomes-matos_reactjs-nextjs-typescript-activity-7150460194966122496-1hwp?utm_source=share&utm_medium=member_desktop',
       },
       {
