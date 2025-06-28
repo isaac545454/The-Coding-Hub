@@ -82,7 +82,7 @@ export const FrontendResources = [
       },
       {
         name: 'Design Patterns (Builder, decorator, adatper e strategy)',
-        link: 'https://www.linkedin.com/posts/isaac-gomes-matos_design-patterns-activity-7167854766092496896-c2gs?utm_source=share&utm_medium=member_desktop',
+        link: 'https://www.linkedin.com/posts/isaac-gomes-matos_tudo-que-precisa-sobre-design-patterns-activity-7337815066404163585-M2UF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADeysgcBkYb4yK74sU3wdervNFEMlt206WM',
       },
       {
         name: 'Criando Funções melhores',
